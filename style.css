@@ -115,3 +115,28 @@ body {
   text-align: center;
   font-size: 30px;
 }
+
+/* Signup CSS */
+
+.signup-btn{
+  border: 1px solid;
+  border-radius: 5px;
+  height: 40px;
+  width: 80%;
+  margin: 10px;
+  text-align: center;
+  padding: 5px;
+  background-color: #4070f4;
+  color: white;
+}
+
+.signup-form h2{
+  text-align: center;
+  font-size: 30px;
+} 
+
+.already-have-account {
+  text-decoration: none;
+  color: #4070f4;
+  font-size: 14px;
+}
